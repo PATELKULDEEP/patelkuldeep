@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Kuldeep Patel
 
-🚀 Software Engineer | Java Full-Stack Developer
+🚀 Software Engineer | Java Full-Stack Developer  
 💻 Java, Spring Boot | React | System Design | DSA
 
 ---
