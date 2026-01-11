@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Kuldeep Patel
 
-🚀 Software Engineer | Backend-Focused Full Stack  
-💻 Java, Spring Boot | React | System Design & DSA
+🚀 Software Engineer | Java Full-Stack Developer
+💻 Java, Spring Boot | React | System Design | DSA
 
 ---
 
@@ -9,7 +9,7 @@
 - Software Engineer at Accenture working on an **Enterprise Healthcare Platform**
 - Strong experience in **Java, Spring Boot, REST APIs, PostgreSQL**
 - Hands-on with **React** for building and integrating frontend workflows
-- Interested in **scalable backend systems, API security, and system design**
+- Interested in building **scalable, secure, and maintainable full-stack applications**
 
 ---
 
